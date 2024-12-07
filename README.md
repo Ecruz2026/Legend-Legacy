@@ -6,4 +6,4 @@
 # Step 1: Download all the files from chapters 1 to 5.
 # Step 2: Please have all the files open before doing anything else.
 # Step 3: Run the file.
-# Step 4: 
+# Step 4: Your inputs will be in some variants in one's, two's, three's, and four's.
