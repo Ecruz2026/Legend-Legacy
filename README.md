@@ -8,7 +8,7 @@
 # Step 3: Run the file.
 # Step 4: Your inputs will be in some variants in one's, two's, three's, and four's.
 
-# In chapter one, there are going to be options where your choose will bring you back to the options section again.
+# In chapter one, there are going to be options where your choices will bring you back to the options section again.
 
 ![css work pic ](https://github.com/user-attachments/assets/35171e04-5b81-43e1-bca6-6e870ff8abf2)
 
