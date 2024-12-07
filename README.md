@@ -7,3 +7,8 @@
 # Step 2: Please have all the files open before doing anything else.
 # Step 3: Run the file.
 # Step 4: Your inputs will be in some variants in one's, two's, three's, and four's.
+
+# In chapter one, there are going to be options where your choose will bring you back to the options section again.
+
+
+
